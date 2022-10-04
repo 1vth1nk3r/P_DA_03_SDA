@@ -1,5 +1,5 @@
 # Telecom plans analysis
-The project from the SDA sprint of the Practicum DA/DS course.
+The project from the Statistical Data Analysis sprint of the Practicum DA/DS course.
 
 ## Description
 Here we have a small dataset of various data on a telecom company's clients. We would like to know if one of the prepaid plans (Surf and Ultimate) brings in more revenue.
